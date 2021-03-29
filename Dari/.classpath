@@ -27,5 +27,35 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pc rog/.m2/repository/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4.jar" sourcepath="C:/Users/pc rog/.m2/repository/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/pc rog/.m2/repository/com/sun/mail/jakarta.mail/1.6.4/jakarta.mail-1.6.4-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="com.sun.mail"/>
+			<attribute name="maven.artifactId" value="jakarta.mail"/>
+			<attribute name="maven.version" value="1.6.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pc rog/.m2/repository/org/springframework/spring-context-support/5.2.1.RELEASE/spring-context-support-5.2.1.RELEASE.jar" sourcepath="C:/Users/pc rog/.m2/repository/org/springframework/spring-context-support/5.2.1.RELEASE/spring-context-support-5.2.1.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/pc rog/.m2/repository/org/springframework/spring-context-support/5.2.1.RELEASE/spring-context-support-5.2.1.RELEASE-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-context-support"/>
+			<attribute name="maven.version" value="5.2.1.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/pc rog/.m2/repository/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6.jar" sourcepath="C:/Users/pc rog/.m2/repository/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/pc rog/.m2/repository/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6-javadoc.jar!/"/>
+			<attribute name="maven.groupId" value="com.itextpdf"/>
+			<attribute name="maven.artifactId" value="itextpdf"/>
+			<attribute name="maven.version" value="5.0.6"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

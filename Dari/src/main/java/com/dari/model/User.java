@@ -27,7 +27,7 @@ public class User {
 
 	
 
-	public User(String firstName, String lastName, String email, String userName, String password, String role,
+	public User(String firstName,String lastName, String email, String userName, String password, String role,
 			String image) {
 		super();
 		this.firstName = firstName;
@@ -107,7 +107,9 @@ public class User {
 
 	public void setImage(String image) {
 		this.image = image;
-	} 
+	}
+
+
 	
 	
 	

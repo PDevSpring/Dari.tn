@@ -1,15 +1,20 @@
 package com.dari.model;
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
 
 @Entity
 public class Message {
 	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int MessageId ; 
 	private String Subject ; 
 	private String Description ; 
-	private String from ; 
-	private String to ; 
+	private String _from ; 
+	private String _to ; 
 	
 
 }
